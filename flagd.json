@@ -12,7 +12,7 @@
     "myStringFlag": {
       "state": "ENABLED",
       "variants": {
-        "key1": "val1-updated",
+        "key1": "val1",
         "key2": "val2"
       },
       "defaultVariant": "key1"
